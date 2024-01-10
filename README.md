@@ -4,7 +4,7 @@ This repository is to be used for practicing building an API.
 
 
 ### Versions
-* Rails 7.0.x
+* Rails 7.1.2
 * Ruby 3.2.2
 
 
